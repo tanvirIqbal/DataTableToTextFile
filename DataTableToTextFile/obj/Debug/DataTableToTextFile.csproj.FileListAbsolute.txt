@@ -1,0 +1,10 @@
+C:\Users\tanviriqbal\source\repos\DataTableToTextFile\DataTableToTextFile\bin\Debug\DataTableToTextFile.exe.config
+C:\Users\tanviriqbal\source\repos\DataTableToTextFile\DataTableToTextFile\bin\Debug\DataTableToTextFile.exe
+C:\Users\tanviriqbal\source\repos\DataTableToTextFile\DataTableToTextFile\bin\Debug\DataTableToTextFile.pdb
+C:\Users\tanviriqbal\source\repos\DataTableToTextFile\DataTableToTextFile\obj\Debug\DataTableToTextFile.csprojAssemblyReference.cache
+C:\Users\tanviriqbal\source\repos\DataTableToTextFile\DataTableToTextFile\obj\Debug\DataTableToTextFile.Form1.resources
+C:\Users\tanviriqbal\source\repos\DataTableToTextFile\DataTableToTextFile\obj\Debug\DataTableToTextFile.Properties.Resources.resources
+C:\Users\tanviriqbal\source\repos\DataTableToTextFile\DataTableToTextFile\obj\Debug\DataTableToTextFile.csproj.GenerateResource.cache
+C:\Users\tanviriqbal\source\repos\DataTableToTextFile\DataTableToTextFile\obj\Debug\DataTableToTextFile.csproj.CoreCompileInputs.cache
+C:\Users\tanviriqbal\source\repos\DataTableToTextFile\DataTableToTextFile\obj\Debug\DataTableToTextFile.exe
+C:\Users\tanviriqbal\source\repos\DataTableToTextFile\DataTableToTextFile\obj\Debug\DataTableToTextFile.pdb
